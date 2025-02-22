@@ -1,5 +1,5 @@
 # mono
-- Mono x Nx -
+\- Mono x Nx -
 
 - https://monorepo.tools/
 - https://nx.dev/concepts/decisions/why-monorepos#monorepos?utm_source=monorepo.tools
